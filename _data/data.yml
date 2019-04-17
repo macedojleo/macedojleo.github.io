@@ -49,8 +49,8 @@ career-profile:
       Over 9 years work experience as **Business Support Systems (BSS) analyst**, **SysAdmin**, and **IT consultant** with a broad experience in mediation (common data harvesting platform for OSS/BSS systems) and convergent billing applications in Telecom domain.
       <p><b>Critical spirit and problem-solving skills</b>, having participated actively of risk and crisis management processes, proposing definitive and/or alternative technical solutions, always focused on service availability and service delivery as well as service level agreements attendance.</p>
       <p>Currently, dedicate part of his time working in his Master's thesis about the <b>benefits of Machine Learning and Natural Language Processing (NLP) uses to improve ITSM incident tickets classification process</b>. You can see part of work (so far) <b><a href="https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/">here</a></b></p>.
+      <br>
       <p><img src="/assets/certificates/pdf.png" height="42" width="42"> Get <b><a href="/assets/certificates/CV_Macedo_Leonardo.pdf">here</a></b> resume in PDF format (in english)</p>
-      <p><img src="/assets/certificates/pdf.png" height="42" width="42"> Aceda <b><a href="/assets/certificates/CV_Macedo_Leonardo_PT.pdf">aqui</a></b> curriculum no formato PDF (em português)</p>
 
 education:
     - degree: M.Sc in Software Engineering (in progress)
@@ -77,17 +77,9 @@ experiences:
         <p>Main roles were: <b>Workload prioritization assignments</b>, <b>resolve</b> any <b>conflicts</b> that may arise, proactive scheduling (<b>automation</b>) for the <b>critical tasks</b>, monitoring performance and faults (<b>Trouble-Ticketing</b>) related to Rating chain and Bill Checkout process,
         Deploying Product Catalogue, Catalogue Configuration, Rate Plans, and Fixes, as well evaluating risk and technical RFC (Request for Change) impacts, Change Advisory Board (CAB) participate.</p>
         <p>Partner with business teams (revenue assurance and financial billing areas), CDR traffic analysis <b>metrics</b> such as charges (Voice/SMS/3G/4G/Other services), Call Types (MOC,MTC,Roaming,Transit), and by locations. Customize data extraction procedures and dashboards maintaining (Google Charts)</p>
- 
-        <ul> 
-            <li>Strong Unix (HP-UX)/Linux (RedHat) Administration skills</li>
-            <li>Automation Job Development</li>
-            <li>Strong Scripting Skills</li>
-            <li>Control-M Scheduler Tool</li>
-            <li>Oracle SQL</li>
-            <li>Log Application Analysis</li>
-            <li>Traffic Analysis (data analysis)</li>
-        </ul>
-          
+        <br>
+        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ETL, ITIL, Ericsson, BSCS-IX</b></p>
+     
     - role: BSS (Telco) IT Consultant
       time: 2009 - 2014
       company: Orga Systems (acquired by Redknee), Rio de Janeiro - Brazil
@@ -96,17 +88,8 @@ experiences:
         <p>Incident management (ticketing), Problem management (Trouble-Ticketing) and Change management (RFC risk analysis, support for business impact, technical validation, and progress monitoring) according to the ITSM best practices (ITIL).</p>
         <p>Strong knowledge of both, technical and business flows, as well a <b>strong focus on customer experience, service quality, development, and support </b> a collaborative relationship between the technical team and business team.
         Automating and scheduling operational tasks, monitoring applications performance, hardware resources consumption, and faults.</p>
-        
-        
-        <ul>
-            <li>Quantitative and Qualitative Analytical Skills</li>        
-            <li>Automation Job Development</li>
-            <li>Scripting</li>
-            <li>Control-M Scheduler Tool</li>
-            <li>SQL Procedures</li>
-            <li>Strong Unix (HP-UX)/Linux Administration skills</li>
-            <li>Assist with User Acceptance Test (UAT) Process</li>
-        </ul>
+        <br>
+        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL, Orga Systems</b></p>
         
     - role: Production Analyst
       time: 2008 - 2009
@@ -116,15 +99,10 @@ experiences:
         <p>Main roles were attendance <b>Incidents</b> tickets and <b>Defects</b> in a timely manner <b>providing a definitive solution</b> or at least a contour solution (WA) in order to guarantee reliability and stability according to SLA and KPI metrics.</p>
         <p>Analysis and validation inputs (CDR) and outputs (XML soa architecture, Ascii, DB) acting close with the other operation/production teams in order to detect and fix any issue as fast as possible.</p>
         <p>Request for Change (RFC) process technical validation, risk mitigation and progress monitoring.</p>        
-        <ul>
-            <li>ITIL</li>        
-            <li>Scripting</li>
-            <li>Unix (Solaris)</li>
-            <li>Quantitative and qualitative analytical skills</li>
-            <li>Incidents analisys</li>
-            <li>Problem recognition and solving skills</li>
-        </ul>
+        <br>
+        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL, Orga Systems</b></p>
         
+    - role: Analista de Produção
 projects:
     title: Projects
     intro: |
@@ -208,4 +186,4 @@ skills:
         level: 65% 
 
 footer: >
-    <p align="center"><b>[EN]</b>| <a href="https://macedojleo.github.io/pt">[PT]</a></p>
+    <p align="center"><b>[EN]</b> | <a href="https://macedojleo.github.io/pt">[PT]</a></p>
