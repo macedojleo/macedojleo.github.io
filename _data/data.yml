@@ -72,7 +72,7 @@ experiences:
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brazil
       details: |
-        <p><b>BSCS iX Rating modules</b> (FIH, PRIH, RIH, PCCH, CCH, RLH) administration, ensuring performance and quality of the technical platform, servers and applications besides Vendor's, Dev Team, and QA Cooperation.</p>
+        <p><b>SME Ericsson BSCS iX Rating modules</b> ensuring performance and quality of the technical platform, servers and applications besides Vendor's, Dev Team, and QA Cooperation.</p>
         <p>Effective <b>Incident Management</b> from whole life cycle tickets since start through resolution with partnering among Prd, Dev, and Configuration teams to determine root causes and driving to rigorous <b>Problem Management</b> to follow through on actions.</p>
         <p>Main roles were: <b>Workload prioritization assignments</b>, <b>resolve</b> any <b>conflicts</b> that may arise, proactive scheduling (<b>automation</b>) for the <b>critical tasks</b>, monitoring performance and faults (<b>Trouble-Ticketing</b>) related to Rating chain and Bill Checkout process,
         Deploying Product Catalogue, Catalogue Configuration, Rate Plans, and Fixes, as well evaluating risk and technical RFC (Request for Change) impacts, Change Advisory Board (CAB) participate.</p>
@@ -84,10 +84,9 @@ experiences:
       time: 2009 - 2014
       company: Orga Systems (acquired by Redknee), Rio de Janeiro - Brazil
       details: |
-        <p><b>OPSC GOLD</b> end-to-end <b>3rd level Production Support</b> Rating and customer care (charge notifications) systems.</p>
-        <p>Incident management (ticketing), Problem management (Trouble-Ticketing) and Change management (RFC risk analysis, support for business impact, technical validation, and progress monitoring) according to the ITSM best practices (ITIL).</p>
-        <p>Strong knowledge of both, technical and business flows, as well a <b>strong focus on customer experience, service quality, development, and support </b> a collaborative relationship between the technical team and business team.
-        Automating and scheduling operational tasks, monitoring applications performance, hardware resources consumption, and faults.</p>
+        <p><b>OPSC GOLD</b> end-to-end <b>Production Support</b> Rating and customer care (charge notifications) systems.</p>
+        <p>Backlog tickets incident attendance and queue management, Problem management (Trouble-Ticketing, vendor interaction, fix implement, and validation) and thecnical validation in ITIL Change Management process.</p>
+        <p>Automate and scheduler operational tasks (scripting), monitor applications performance through metrics and logs, resources consumption, and infrastructure faults (server, DB, application server).</p>
         <br>
         <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL, Orga Systems</b></p>
         
@@ -95,8 +94,8 @@ experiences:
       time: 2008 - 2009
       company: EGS (Ericsson group), São Paulo - Brazil
       details: |
-        <p><b>Ericsson Mediation</b> Production analyst responsible for application reliability, ensure operations is according with business and Brazilian regulatory standards (ANATEL) and tickets backlog attendance as Service Level Agreement required <b>providing a definitive solution</b> or at least a contour solution (WA).</p>
-        <p>End-to-end processing validation (CDR inputs and systems delivery), acting close with the other operation/production teams in order to detect and fix any issue as fast as possible.</p>
+        <p><b>Ericsson Mediation Production analyst</b>, accountable for application reliability, ensure that operations is according with business and Brazilian regulatory standards (ANATEL), and tickets backlog attendance as Service Level Agreement required <b>providing a definitive solution</b> or at least a contour solution (WA).</p>
+        <p>End-to-end process validation (CDR inputs and systems delivery), acting close with the other operation/production teams in order to detect and fix any issue as fast as possible.</p>
         <p>Request for Change (RFC) process technical validation, risk mitigation and progress monitoring.</p>        
         <br>
         <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL, Orga Systems</b></p>
