@@ -50,19 +50,22 @@ career-profile:
       <p>Teve como principais responsabilidades a gestão da fila e atendimento de tickets de incidentes, problemas (troubleshooting) e solicitações de serviços de acordo com as melhores práticas ITIL e acordos de nível de serviço (SLA).</p>
       <p>Desenvolveu também atividades de tecnhical support alinhado ao plano tático e estratégico da área, estabelecendo e implementando scripts de monitoração, automação de processos de administração e ações de melhoria contínua dos processos operacionais, documentando todos os procedimentos aos times de suporte de primeiro nível.</p>
       <p>Recentemente, obteve o <b> grau de mestre em Engenharia de Software </b> pela Faculdade de Engenharia da Universidade do Porto ao elaborar o trabalho de dissertação sobre o uso de Aprendizagem computacional (Machine Learning) para Gestão de Incidentes de TI, criando um modelo preditivo capaz de classificar tickets de incidente com certo grau de suporte ao time de Service Desk.</p>
+      
 education:
     - degree: Mestrado em Engenharia de Software
       university: Faculdade de Engenharia da Universidade do Porto (FEUP) - Porto, Portugal 
       time: 2017 - 2019
       details: |
         Porto, Portugal      
-        
+    
+    
     - degree: Bacharelado em Ciência da Computação
       university: Faculdade São Judas Tadeu - São Paulo, Brasil
       time: 2007 - 2010
       details: |
         São Paulo, Brasil
-        
+     
+     
 experiences:
     - role: Analista de produção BSS - Ericsson BSCS
       time: 2014 - 2017
