@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: Leonardo Macedo
-    tagline: Engenheiro de Software | SysAdmin | BSS Telco | ITSM | Operations
+    tagline: M.sc Engº. Software | Unix/Linux SysAdmin | Consultor TI | OSS/BSS (telco) | DevOps
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,26 +46,26 @@ sidebar:
 career-profile:
     title: Apresentação
     summary: |
-      <p>Integrou parte da equipe de operações de sistemas de apoio ao negócio de telecomunicações (BSS), garantindo a entrega, disponibilidade e qualidade dos serviços, tendo participado da implementação de diversos projetos, além de migrações de ambientes operacionais Linux e Unix e de infraestrutura.</p>
+      <p>Integrou parte da equipe de operações de sistemas de apoio ao negócio de telecomunicações (BSS), garantindo disponibilidade, qualidade e entrega de serviços. Participou de importantes projetos ajudando na definição de estratégia de <i>rollout</i>, implementação, validação técnica e funcional, além de manutenções períodicas de ambientes operacionais (Linux/Unix) e de infraestrutura.</p>
       <p>Teve como principais responsabilidades a gestão da fila e atendimento de tickets de incidentes, problemas (troubleshooting) e solicitações de serviços de acordo com as melhores práticas ITIL e acordos de nível de serviço (SLA).</p>
       <p>Desenvolveu também atividades de tecnhical support alinhado ao plano tático e estratégico da área, estabelecendo e implementando scripts de monitoração, automação de processos de administração e ações de melhoria contínua dos processos operacionais, documentando todos os procedimentos aos times de suporte de primeiro nível.</p>
       <p>Recentemente, obteve o <b> grau de mestre em Engenharia de Software </b> pela Faculdade de Engenharia da Universidade do Porto ao elaborar o trabalho de dissertação sobre o uso de Aprendizagem computacional (Machine Learning) para Gestão de Incidentes de TI, criando um modelo preditivo capaz de classificar tickets de incidente com certo grau de suporte ao time de Service Desk.</p>
-      
+
 education:
     - degree: Mestrado em Engenharia de Software
       university: Faculdade de Engenharia da Universidade do Porto (FEUP) - Porto, Portugal 
       time: 2017 - 2019
       details: |
         Porto, Portugal      
-    
-    
+        
+
     - degree: Bacharelado em Ciência da Computação
       university: Faculdade São Judas Tadeu - São Paulo, Brasil
       time: 2007 - 2010
       details: |
         São Paulo, Brasil
-     
-     
+        
+
 experiences:
     - role: Analista de produção BSS - Ericsson BSCS
       time: 2014 - 2017
@@ -93,7 +93,7 @@ experiences:
         <li>Garantia de conformidade ITIL (SLA e KPI) no atendimento de solicitações de serviço, tickets de incidentes e problemas.</li>
         <li><i>Troubleshooting</i> de sistema, integração com times de desenvolvimento (DEV), QA e fornecedores.</li>
         <li><i>Troubleshooting</i> e administração de ambiente operativo em ambiente Linux/Unix.</li>
-        <li>Automação de processos operacionais de monitoração, definição de <li>thresholds</li> e alarmes, backup, expurgo, configuração e preparação de ambiente.</li>
+        <li>Automação de processos operacionais de monitoração, definição de <i>thresholds</i> e alarmes, backup, expurgo, configuração e preparação de ambiente.</li>
         <li>Suporte às áreas de negócio (facturamento e garantia da receita), extração e consolidação de dados, análise de métricas de performance e relatórios.</li>
         <li>Suporte ao processo de ETL, manutenção de <i>procedures</i> Oracle PL/SQL.</li>
         <li>Suporte <i>on-Call</i> 24x7</li>
@@ -119,7 +119,7 @@ experiences:
         <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Oracle 10g, Sun Solaris, Bash, AWK, Perl, ITIL, MS Office Suite, BMC Remedy, BSS, OSS, Ericsson, EMM, EMA, OLM, Oracle 10g</b></p>
         
 projects:
-    title: PROJETOS ACADÊMICOS
+    title: Projetos Acadêmicos
     intro: |
         <p><b>Projetos desenvolvidos durante o curso de Mestrado de Engenharia de Software</b></p>   
     assignments:
@@ -140,12 +140,12 @@ projects:
 #        tagline: "Infraestrutura (Apache, Python Django, Nginx e MySql) com arquitetura de micro serviços baseado em containers (docker) utilizando Ansible como CI"
 
 publications:
-    title: CURSOS LIVRES
+    title: Cursos Livres
       
     papers:
       - title: "ITIL V4 - Foundations"
         authors: Udemy / Dion Training | 2019
-    
+        
       - title: "Mongodb - CLuster Administration"
         authors: Mongo University | 2019
         conference: <a href="/assets/certificates/M103.pdf">Download do cerfificado</a>
@@ -161,7 +161,7 @@ publications:
       - title: "Python in the Context of Engineering"
         authors: NTITEC (FEUP) - Porto, Portugal | 2018
         conference: <a href="/assets/certificates/PYTHON_ Macedo_en.pdf">Download do cerfificado</a>
-
+        
       - title: "Oracle Database 11G Administrator"
         authors: Ka solution - São Paulo, Brazil | 2015
         conference: <a href="/assets/certificates/Oracle.pdf">Download do cerfificado</a>
@@ -175,15 +175,15 @@ publications:
         conference: <a href="/assets/certificates/Linux.pdf">Download do cerfificado</a>
 
 skills:
-    title: COMPETÊNCIAS TÉCNICAS
+    title: Competências Técnicas
 
     toolset:
-      - name: Scripting - Shell Script, Bash, KSH, Python
+      - name: Scripting (Shell Script, Bash, KSH, Python)
         level: 80%
-
-      - name: Administração de sistemas operativos - Unix & Linux
+        
+      - name: Administração de sistemas operativos (Unix & Linux)
         level: 75%
-
+        
       - name: MS Office Suite (Word, Power Point, Excel (analítico, tabelas Pivot, vlookup)
         level: 75%
         
@@ -193,17 +193,23 @@ skills:
       - name: Marcação de texto, integração de sistemas, dados estruturados (XML, Json, CSV)
         level: 70%
         
+      - name: Ericsson BSCS (BSS Billing Convergent systems) 
+        level: 70%
+        
       - name: UI/UX design (proto.io, Adobe Photoshop) 
-        level: 65% 
-
+        level: 60% 
+        
       - name: Virtualização (Virtual Box, Vagrant) | Containers (Docker, Docker Compose, Swarm)
         level: 60%
         
       - name: Controle de Versionamento - Git & Github
         level: 60%
         
-     - name: Python for data science (Pandas, Scikit-Learn, SciPy, mathplotlib)
+      - name: Python for data science (Pandas, Scikit-Learn, SciPy, mathplotlib)
         level: 60%
           
       - name: Mongo DB – Atlas, Compass, aggregation...
         level: 50% 
+
+#footer: >
+#    <p align="center"><a href="https://macedojleo.github.io">[EN]</a> | <b>[PT]</b></p>
