@@ -46,11 +46,11 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      <p>Over 9 years, was part of the telecommunications business support systems (BSS) operations team, ensuring the service availability, quality, and delivery.</p>
-      define strategies to new projects rollout and , impacts, follow up, technical and functional validation.</p>
+      <p>Over 9 years, was part of the telecommunications business support systems (BSS) operations team, ensuring the service availability, quality, and delivery.</p> 
+      <p>Defining rollout strategies to new projects, impacts, follow up, technical and functional validation.</p>
       <p>Accountable to 3rd level of support for service requests, incidents, problems tickets (troubleshooting), and change requests according to ITIL best practices besides defines rollout strategies to new projects, carry out to new products version, analyses their impacts on production environment, follow up, technical and functional validation.</p>
       <p>Technical support according to the tactical and strategic plan of the area, scripting, automating tasks and monitoring.</p>
-      <p>Obtained his Master's degree in Software Engineering by the Faculty of Engineering of University of Porto writing a dissertation about the use of Machine Learning for IT Incident Management.</p>
+      <p>In September 2019, obtained his <b>Master's degree in Software Engineering</b> by the Faculty of Engineering of University of Porto through the dissertation about the use of Machine Learning on IT Incident Management.</p>
 
 education:
     - degree: Mestrado em Engenharia de Software
