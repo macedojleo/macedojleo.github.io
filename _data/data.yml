@@ -95,7 +95,7 @@ experiences:
         <li>Dev, QA, and software providers teams integration, making sure the agility of troubleshooting and new product shipments to production environment.</li>
         <li>Performance warranty through service monitoring and preventive actions based on service and environment metrics analysis.</li>
         <li>Attest the operational and the system processes are according to Brazil's telecommunications regulatory processes (ANATEL).</li>
-        <li>System consulting for business teams (invoicing and revenue assurance); Extracting and structuring (CSV) statistical rating data and metrics (on demand); Results analyses for each billing cycle results, and dashboard maintenance.</li>
+        <li>System consulting for business teams (invoicing and revenue assurance); Extracting and structuring (CSV) statistical rating data and metrics (on demand); Results analyses for each billing cycle results; Dashboard maintenance.</li>
         <li>Oracle PL/SQL procedures maintance for ETL process.</li>
         <li>Scripting (Shell script, AWK, and Python) and Jobs scheduling (Control-M)</li>
         <li>Support on call (shifting 24x7)</li>
@@ -119,17 +119,17 @@ experiences:
         <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Oracle 10g, Sun Solaris, Bash, AWK, Perl, ITIL, MS Office Suite, BMC Remedy, BSS, OSS, Ericsson, EMM, EMA, OLM, Oracle 10g</b></p>
         
 projects:
-    title: Projetos Acadêmicos
+    title: Academic Projects
     intro: |
-        <p><b>Projetos desenvolvidos durante o curso de Mestrado de Engenharia de Software</b></p>   
+        <p><b>Projects developed during Software Engineering Master's degree in FEUP (Porto - Portugal)</b></p>   
     assignments:
-      - title: Aprendizagem Computacional para Gestão de Incidentes em Tecnologia da Informação
+      - title: Machine Learning for Incident Management
         link: "https://repositorio-aberto.up.pt/handle/10216/122182"
-        tagline: "Dissertação para obtenção de grau de mestre em Engenharia de Software pela Faculdade de Engenharia da Universidade do Porto em Portugal."
+        tagline: "Software Engineering Master's thesis (in Portuguese)."
         
-      - title: Talk-A-Bit 2019 - Conferência de tecnologia
+      - title: Talk-A-Bit 2019 is an annual and nonprofit technology conference organized by FEUP held in Porto, Portugal.
         link: "http://talkabit.org/"
-        tagline: "Design e concepção de booklet para conferência anual de tecnologia realizada na Faculdade de Engenharia da Universidade do Porto em Portugal."
+        tagline: "The main role was the design and conception of digital booklet hosted on the conference website."
 #
 #      - title: CosnFlix
 #        link: "https://github.com/macedojleo/COSNFLIX"
@@ -140,10 +140,10 @@ projects:
 #        tagline: "Infraestrutura (Apache, Python Django, Nginx e MySql) com arquitetura de micro serviços baseado em containers (docker) utilizando Ansible como CI"
 
 publications:
-    title: Cursos Livres
+    title: Free Courses and Certifications
       
     papers:
-      - title: "ITIL V4 - Foundations"
+      - title: "ITIL V4 Foundations exam study (in progress)"
         authors: Udemy / Dion Training | 2019
         
       - title: "Mongodb - CLuster Administration"
