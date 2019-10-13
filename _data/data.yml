@@ -175,7 +175,7 @@ publications:
         conference: <a href="/assets/certificates/Linux.pdf">Download do cerfificado</a>
 
 skills:
-    title: Competências Técnicas
+    title: Technical Skills
 
     toolset:
       - name: Scripting (Shell Script, Bash, KSH, Python)
@@ -211,5 +211,5 @@ skills:
       - name: Mongo DB – Atlas, Compass, aggregation...
         level: 50% 
 
-#footer: >
-#    <p align="center"><a href="https://macedojleo.github.io">[EN]</a> | <b>[PT]</b></p>
+footer: >
+    <p align="center"><a href="https://macedojleo.github.io/pt">[PT]</a> | <b>[EN]</b></p>
