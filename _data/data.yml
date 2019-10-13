@@ -48,39 +48,39 @@ career-profile:
     summary: |
       <p>Over 9 years, being part of the telecommunications business support systems (BSS) operations team, ensuring service availability, quality, and delivery.</p>
       <p>3rd level support accountable for service requests, incidents, problem tickets (troubleshooting), and change requests according to the ITIL best practices besides defines new projects rollout strategies, carry out new products version and analyses it impacts on the production environment, follow up, technical and functional validation.</p>
-      <p>Acting also technical support according to the tactical and strategic plan of the area, development scripts, automating tasks and monitoring system and environment.</p>
+      <p>Also acted as technical support according to the tactical and strategic plan of the area, development scripts, automating tasks and monitoring system and environment resources.</p>
       <p>In September 2019, achieved his <b>Master's degree in Software Engineering</b> by the Faculty of Engineering of University of Porto defends the thesis about the use of Machine Learning on IT Incident Management process.</p>
 
 education:
-    - degree: Mestrado em Engenharia de Software
-      university: Faculdade de Engenharia da Universidade do Porto (FEUP) - Porto, Portugal 
+    - degree: Master's degree in Software Engineering
+      university: FEUP - Porto, Portugal 
       time: 2017 - 2019
       details: |
         Porto, Portugal      
         
 
-    - degree: Bacharelado em Ciência da Computação
-      university: Faculdade São Judas Tadeu - São Paulo, Brasil
+    - degree: Bachelor's degree in Computer Science
+      university: São Judas Tadeu Faculty - São Paulo, Brasil
       time: 2007 - 2010
       details: |
         São Paulo, Brasil
         
 
 experiences:
-    - role: Analista de produção BSS - Ericsson BSCS
+    - role: BSS Production Analyst - Ericsson BSCS system
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brasil
       details: |
         <ul>
-         <li>Garantia de conformidade ITIL (SLA e KPI) no atendimento de solicitações de serviço, tickets de incidentes e problemas.</li>
-         <li><i>Change-advisory board Technical member</i> (CAB) no processo de revisão, priorização e aprovação de solicitações de mudanças</li>
-         <li>Monitoria e ações preventivas baseado na análise de métricas de performance de serviços e de ambiente.</li>
-         <li>Definição de estratégia na implementação de novas configurações e serviços, análise de impactos técnicos e funcionais, monitoração e coleta de evidências para validação na perspetiva de negócio.</li>
-         <li>Garantia de conformidade com os processos regulatórios e indicadores de qualidade ANATEL (Agência Nacional de Telecomunicações).</li>
-         <li><i>Troubleshooting</i> e administração de sistema operativo baseado em Unix (Rhel, HP-UX, Sun-Solaris).</li>
-         <li>Interação com equipes de desenvolvimento e fornecedores).</li>
-         <li>Automação de processos operacionais (<i>scripting</i>) e <i>job scheduling</i> (Control-M)</li>
-         <li>Suporte <i>on call</i> 24x7</li>
+         <li>Ensure resolution of service request, incident tickets and problem tickets agree with SLA's and KPI's </li>
+         <li>Change-advisory board (CAB) technical member, reviewing and advising on requested changes.</li>
+         <li>Performance warranty through service monitoring and preventive actions based on service and environment metrics analysis.</li>
+         <li>Attest the operational and the system processes act according to Brazil's telecommunications regulatory processes (ANATEL).</li>
+         <li>Unix and Linux environment troubleshooting and administration tasks (backup and purge old data, monitoring system alerts)Unix and Linux OS environment troubleshooting and administration tasks (backup and purge old data, monitoring system alerts).</li>
+         <li>Dev, QA, and software providers teams integration, making sure the agility of troubleshooting and new product shipments to production environment.</li>
+         <li>Deal with customer expectations, prioritizing their requests and/or tickets as defined by the urgency and impact.</li>
+         <li>Scripting (Shell script, AWK, and Python) and Jobs scheduling</li>
+         <li>Support on call (shifting 24x7)</li>
         </ul>
         <br>
         <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Linux (Rhel), Bash, AWK, Perl, MS Office Suite, BMC Remedy, Google Charts, BSS, Ericsson BSCS, Oracle 11G.</b></p>     
