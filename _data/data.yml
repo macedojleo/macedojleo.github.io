@@ -72,47 +72,47 @@ experiences:
       company: Nextel Telecomunicações, São Paulo - Brasil
       details: |
         <ul>
-         <li>Ensure resolution of service request, incident tickets and problem tickets agree with SLA's and KPI's </li>
+         <li>Ensure the resolution of 3rd level of service request, incident tickets and problem tickets agreed with SLA's and KPI's.</li>
          <li>Change-advisory board (CAB) technical member, reviewing and advising on requested changes.</li>
+         <li>Deal with internal customer expectations, prioritizing their requests and/or tickets as defined by the urgency and impact.</li>
          <li>Performance warranty through service monitoring and preventive actions based on service and environment metrics analysis.</li>
-         <li>Attest the operational and the system processes act according to Brazil's telecommunications regulatory processes (ANATEL).</li>
-         <li>Unix and Linux environment troubleshooting and administration tasks (backup and purge old data, monitoring system alerts)Unix and Linux OS environment troubleshooting and administration tasks (backup and purge old data, monitoring system alerts).</li>
+         <li>Attest the operational and the system processes are according to Brazil's telecommunications regulatory processes (ANATEL).</li>
+         <li>Unix and Linux environment troubleshooting and administration tasks (backup, purging old data, and monitoring system alerts).</li>
          <li>Dev, QA, and software providers teams integration, making sure the agility of troubleshooting and new product shipments to production environment.</li>
-         <li>Deal with customer expectations, prioritizing their requests and/or tickets as defined by the urgency and impact.</li>
          <li>Scripting (Shell script, AWK, and Python) and Jobs scheduling</li>
          <li>Support on call (shifting 24x7)</li>
         </ul>
         <br>
         <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Linux (Rhel), Bash, AWK, Perl, MS Office Suite, BMC Remedy, Google Charts, BSS, Ericsson BSCS, Oracle 11G.</b></p>     
     
-    - role: Consultor/analista de produção BSS (outsourcing)
+    - role: IT consultant/BSS Production analyst (outsourcing)
       time: 2009 - 2014
       company: Orga Systems, Rio de Janeiro - Brasil
       details: |
         <ul>
-        <li>Garantia de conformidade ITIL (SLA e KPI) no atendimento de solicitações de serviço, tickets de incidentes e problemas.</li>
-        <li><i>Troubleshooting</i> de sistema, integração com times de desenvolvimento (DEV), QA e fornecedores.</li>
-        <li><i>Troubleshooting</i> e administração de ambiente operativo em ambiente Linux/Unix.</li>
-        <li>Automação de processos operacionais de monitoração, definição de <i>thresholds</i> e alarmes, backup, expurgo, configuração e preparação de ambiente.</li>
-        <li>Suporte às áreas de negócio (facturamento e garantia da receita), extração e consolidação de dados, análise de métricas de performance e relatórios.</li>
-        <li>Suporte ao processo de ETL, manutenção de <i>procedures</i> Oracle PL/SQL.</li>
-        <li>Suporte <i>on-Call</i> 24x7</li>
+        <li>Ensure the resolution of 3rd level of service request, incident tickets and problem tickets agreed with SLA's and KPI's.</li>
+        <li>Deal with internal customer expectations, prioritizing their requests and/or tickets as defined by the urgency and impact.</li>
+        <li>Dev, QA, and software providers teams integration, making sure the agility of troubleshooting and new product shipments to production environment.</li>
+        <li>Performance warranty through service monitoring and preventive actions based on service and environment metrics analysis.</li>
+        <li>Attest the operational and the system processes are according to Brazil's telecommunications regulatory processes (ANATEL).</li>
+        <li>System consulting for business teams (invoicing and revenue assurance); Extracting and structuring (CSV) statistical rating data and metrics (on demand); Results analyses for each billing cycle results, and dashboard maintenance.</li>
+        <li>Oracle PL/SQL procedures maintance for ETL process.</li>
+        <li>Scripting (Shell script, AWK, and Python) and Jobs scheduling (Control-M)</li>
+        <li>Support on call (shifting 24x7)</li>
         </ul>
         <br>
         <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Oracle/Sun Solaris, Bash, AWK, Perl, MS Office Suite, BMC Remedy, Google Charts, BSS, BSCS, Oracle 11G</b></p>
         
-    - role: Analista de Produção
+    - role: Production Analyst (outsourcing)
       time: 2008 - 2009
       company: Ericsson Gestão de Serviços, São Paulo - Brasil
       details: |
         <p>
         <ul>
-        <li>Garantia de conformidade ITIL (SLA e KPI) no atendimento de solicitações de serviço, tickets de incidentes e problemas.</li>
-        <li>Implementação de configurações, features e correções em ambiente produtivo.</li>
-        <li><i>Troubleshooting</i> e administração de ambiente operativo Unix (<i>Sun Solaris</i>).</li>
-        <li>Manutenção, desenvolvimento (scripting) e operação da cadeia de JOBs (Control-M).</li>
-        <li>Elaboração de documentos operacionais e diretrizes ao <i>Service Desk</i>, detalhando impactos, procedimentos e ações em caso de alarmes.</li>
-        <li>Suporte on-call 24x7</li>
+        <li>Ensure the resolution of service request, incident tickets and problem tickets agreed with SLA's and KPI's.</li>
+        <li>Scripting (Shell script, AWK, and Python) and Jobs scheduling (Control-M)</li>
+        <li>Drafting service desk operational guidelines according to criticality defined for each alarm/service/job.</li>
+        <li>Support on call (shifting 24x7)</li>
         </ul>
         </p>        
         <br>
