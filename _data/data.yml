@@ -181,16 +181,16 @@ skills:
       - name: Scripting (Shell Script, Bash, KSH, Python)
         level: 80%
         
-      - name: Administração de sistemas operativos (Unix & Linux)
+      - name: Unix & Linux OS Administration
         level: 75%
         
-      - name: MS Office Suite (Word, Power Point, Excel (analítico, tabelas Pivot, vlookup)
+      - name: MS Office Suite (Word, Power Point, Excel (Pivot Tables, vlookup, statistical)
         level: 75%
         
       - name: SGBDR - SQL (Oracle, MySQL)
         level: 70%
         
-      - name: Marcação de texto, integração de sistemas, dados estruturados (XML, Json, CSV)
+      - name: Text Markup, structured data (XML, Json, CSV)
         level: 70%
         
       - name: Ericsson BSCS (BSS Billing Convergent systems) 
@@ -199,10 +199,10 @@ skills:
       - name: UI/UX design (proto.io, Adobe Photoshop) 
         level: 60% 
         
-      - name: Virtualização (Virtual Box, Vagrant) | Containers (Docker, Docker Compose, Swarm)
+      - name: Virtualization (Virtual Box, Vagrant) | Containers (Docker, Docker Compose, Swarm)
         level: 60%
         
-      - name: Controle de Versionamento - Git & Github
+      - name: Version Control - Git & Github
         level: 60%
         
       - name: Python for data science (Pandas, Scikit-Learn, SciPy, mathplotlib)
