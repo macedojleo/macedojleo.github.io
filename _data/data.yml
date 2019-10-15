@@ -90,7 +90,7 @@ experiences:
       company: Orga Systems, Rio de Janeiro - Brazil
       details: |
         <ul>
-        <li>Ensure the resolution of 3rd level of service request, incident tickets and problem tickets agreed with SLA's and KPI's.</li>
+        <li3rd level support for the service request, incident tickets, and problem tickets resolution agreed with SLA's and KPI's.</li>
         <li>Deal with internal customer expectations, prioritizing their requests and/or tickets as defined by the urgency and impact.</li>
         <li>Dev, QA, and software providers teams integration, making sure the agility of troubleshooting and new product shipments to production environment.</li>
         <li>Performance warranty through service monitoring and preventive actions based on service and environment metrics analysis.</li>
@@ -109,7 +109,7 @@ experiences:
       details: |
         <p>
         <ul>
-        <li>Ensure the resolution of service request, incident tickets and problem tickets agreed with SLA's and KPI's.</li>
+        <li>Provide resolution for service requests, incident tickets, problem tickets, and change requests technical analyses agreed with ITIL best practices.</li>
         <li>Scripting (Shell script, AWK, and Python) and Jobs scheduling. (Control-M)</li>
         <li>Change Requests technincal validation, rollout strategies, deploy, and follow-up as ITIL Change Management process.</li>
         <li>Drafting service desk operational guidelines according to the criticality defined for each alarm.</li>
